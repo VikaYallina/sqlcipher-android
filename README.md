@@ -1,5 +1,7 @@
 # SQLCipher for Android
 
+## NOTE: This fork aims to complete custom functions implementation 
+
 SQLCipher for Android provides a library replacement for `android.database.sqlite` on the Android platform for use on [SQLCipher](https://github.com/sqlcipher/sqlcipher) databases. This library is based on the upstream [Android Bindings](https://www.sqlite.org/android/doc/trunk/www/index.wiki) project and aims to be a long-term replacement for the original [SQLCipher for Android](https://github.com/sqlcipher/android-database-sqlcipher) library.
 
 ### Compatibility
